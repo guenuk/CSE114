@@ -1,0 +1,22 @@
+All Ipads:
+   (Jim, 0, 629, 9.7, 16, 2, true)
+   (Amy, 1, 599, 9.7, 32, 3, false)
+   (Art, 2, 829, 9.7, 64, 1, true)
+   (Ken, 3, 599, 9.7, 32, 4, false)
+   (Jan, 4, 829, 9.7, 64, 1, true)
+The total number of apps: 11
+All Ipads:
+   (Jim, 0, 629, 9.7, 16, 2, true)
+   (Amy, 1, 599, 9.7, 32, 3, false)
+   (Ken, 3, 599, 9.7, 32, 4, false)
+   (Jan, 4, 829, 9.7, 64, 1, true)
+The total number of apps: 10
+All Ipads:
+   (Amy, 1, 599, 9.7, 32, 3, false)
+   (Ken, 3, 599, 9.7, 32, 4, false)
+   (Jan, 4, 829, 9.7, 64, 1, true)
+The total number of apps: 8
+All Ipads:
+   (Amy, 1, 599, 9.7, 32, 3, false)
+   (Ken, 3, 599, 9.7, 32, 4, false)
+The total number of apps: 7
